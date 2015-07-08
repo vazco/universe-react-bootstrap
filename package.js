@@ -1,13 +1,13 @@
 Package.describe({
     name: 'universe:react-bootstrap',
-    version: '0.23.2',
+    version: '0.23.7',
     summary: 'ReactBootstrap project wrapped for Meteor with Universe',
     git: 'https://github.com/vazco/universe-react-bootstrap',
     documentation: 'README.md'
 });
 
 Npm.depends({
-    'react-bootstrap': '0.23.2'
+    'react-bootstrap': '0.23.7'
 });
 
 Package.onUse(function (api) {
