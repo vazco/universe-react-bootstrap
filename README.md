@@ -33,7 +33,7 @@ For more info go to [universe:modules](https://github.com/vazco/universe-modules
 
 This package additionally export `ReactBootstrap` as a global, so you can write inside any .jsx file:
 
-    let { Button } from ReactBootstrap;
+    let { Button } = ReactBootstrap;
     
     <Button /> // React component
 

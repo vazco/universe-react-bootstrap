@@ -1,7 +1,13 @@
-// Register this file as 'bootstrap' module
+// Register this package as a 'bootstrap' module
 
 System.config({
-    map: {
-        bootstrap: 'universe:react-bootstrap/main'
+    packages: {
+        bootstrap: {
+            main: 'main',
+            format: 'register',
+            map: {
+                '.': System.normalizeSync('universe:react-bootstrap')
+            }
+        }
     }
 });
