@@ -16,7 +16,7 @@ Package.onUse(function (api) {
     api.versionsFrom('1.1.0.2');
 
     api.use([
-        'universe:modules@0.4.0-rc.1',
+        'universe:modules@0.4.0',
         'cosmos:browserify@0.4.0'
     ]);
 

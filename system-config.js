@@ -6,7 +6,7 @@ System.config({
             main: 'main',
             format: 'register',
             map: {
-                '.': System.normalizeSync('universe:react-bootstrap')
+                '.': System.normalizeSync('{universe:react-bootstrap}')
             }
         }
     }
