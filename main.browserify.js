@@ -1,1 +1,0 @@
-ReactBootstrap = require('react-bootstrap');

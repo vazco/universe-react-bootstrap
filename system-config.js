@@ -3,10 +3,10 @@
 System.config({
     packages: {
         bootstrap: {
-            main: 'main',
+            main: 'index',
             format: 'register',
             map: {
-                '.': System.normalizeSync('{universe:react-bootstrap}')
+                '.': System.normalizeSync('{universe:react-bootstrap}/src')
             }
         }
     }
