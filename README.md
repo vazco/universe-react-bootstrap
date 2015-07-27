@@ -9,7 +9,7 @@ Simply add this as a Meteor package:
 
     meteor add universe:react-bootstrap
 
-This package will register SystemJS module named `bootstrap`.
+This package will register SystemJS module named `bootstrap` and additioannly set a global `ReactBootstrap`
 
 ### Usage
 
