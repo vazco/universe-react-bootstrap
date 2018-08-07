@@ -1,7 +1,10 @@
-# ReactBootstrap project wrapped for Meteor using Universe
+<h1 align="center">
+    <a href="https://github.com/vazco">vazco</a>/Universe React Bootstrap
+</h1>
 
-For available components and more info go to original docs at [react-bootstrap.github.io](https://react-bootstrap.github.io/)
+&nbsp;
 
+ReactBootstrap project wrapped for Meteor using Universe. For available components and more info go to original docs at [react-bootstrap.github.io](https://react-bootstrap.github.io/)
 
 ### Installation
 
@@ -43,5 +46,11 @@ or
 
 ----
 
+### License
+
 > This package is part of Universe, a framework based on [Meteor platform](http://meteor.com) maintained by [Vazco](http://www.vazco.eu).
 > It works as standalone Meteor package, but you can get much more features when using the whole system.
+
+<img src="https://vazco.eu/banner.png" align="right">
+
+**Like every package maintained by [Vazco](https://vazco.eu/), Universe React Bootstrap is [MIT licensed](https://github.com/vazco/uniforms/blob/master/LICENSE).**
